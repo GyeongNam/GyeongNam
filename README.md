@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GyeongNam&fontSize=90)
 
@@ -11,12 +11,14 @@
 
 E-mail: jo_gn97@naver.com
 
- 💾 BE
+## 💾 BE
+>
 
- 🖥️ FE
+## 🖥️ FE
+>
 
- 🗃️ CM
+## 🗃️ CM
+>
 
 
-</div>
 
